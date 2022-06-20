@@ -1,0 +1,2 @@
+# myImage
+save typora image.
